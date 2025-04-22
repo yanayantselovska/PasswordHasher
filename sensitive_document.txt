@@ -1,0 +1,4 @@
+This is a sensitive document. Do not share!
+Fake credentials:
+Username: admin
+Password: password123
